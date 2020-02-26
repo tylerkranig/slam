@@ -26,4 +26,4 @@ def play(file):
     cv2.destroyAllWindows()
 
 if __name__ == "__main__":
-    play('vids/test_countryroad.mp4')
+    play('videos/test_countryroad.mp4')
